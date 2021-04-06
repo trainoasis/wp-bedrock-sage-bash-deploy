@@ -56,3 +56,7 @@ To be able to use the script, follow these steps:
   sh deploy.sh --verbose
   ```
   4. enjoy life
+
+### Want to use via Gitlab CI? 
+
+See https://github.com/trainoasis/deploy-wp-bedrock-sage-gitlab-ci for YML script.
